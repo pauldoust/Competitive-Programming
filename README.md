@@ -24,4 +24,4 @@ My solution for some competitive programming problems
 |18|[Two Sum](https://leetcode.com/problems/two-sum/) | [Python3](./TwoSum/TwoSum.py)
 |19|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./ValidateBalancedParentheses/ValidateBalancedParentheses.py)
 |20|[Word Search](https://leetcode.com/problems/word-search/) | [Python3](./WordSearch/wordSearch.py)
-|21|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Python3](./Push Dominoes/Push Dominoes.py)
+|21|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Python3](./Push Dominoes/Push_Dominoes.py)
