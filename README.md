@@ -25,3 +25,4 @@ My solution for some competitive programming problems
 |19|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python3](./ValidateBalancedParentheses/ValidateBalancedParentheses.py)
 |20|[Word Search](https://leetcode.com/problems/word-search/) | [Python3](./WordSearch/wordSearch.py)
 |21|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Python3](./Push_Dominoes/Push_Dominoes.py)
+|21|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](./UniquePaths//UniquePaths.py)
