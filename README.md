@@ -27,3 +27,4 @@ My solution for some competitive programming problems
 |21|[Push Dominoes](https://leetcode.com/problems/push-dominoes/) | [Python3](./Push_Dominoes/Push_Dominoes.py)
 |22|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](./UniquePaths/UniquePaths.py)
 |23|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./RemoveLastNthNode/RemoveLastNthNode.py)
+|24|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./CourseSchedule/CourseSchedule.py)
