@@ -30,7 +30,6 @@ class Solution:
                     lastNth = lastNth.next
             currentNode = currentNode.next
 
-        # print('lastNth.val: ', lastNth.val)
         if lastNth == None:
             head = head.next
         else:
@@ -39,13 +38,7 @@ class Solution:
             temp.next = None
         return head
 
-
-head = Node(1, Node(2, Node(3, Node(4, Node(5)))))
-print(head)
-head = Solution().removeNthFromEnd(head, 5)
-print(head)
-
-# head = Node(1, Node(2))
+# head = Node(1, Node(2, Node(3, Node(4, Node(5)))))
 # print(head)
-# head = Solution().removeNthFromEnd(head, 2)
+# head = Solution().removeNthFromEnd(head, 5)
 # print(head)

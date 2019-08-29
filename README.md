@@ -28,3 +28,4 @@ My solution for some competitive programming problems
 |22|[Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python3](./UniquePaths/UniquePaths.py)
 |23|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Python3](./RemoveLastNthNode/RemoveLastNthNode.py)
 |24|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./CourseSchedule/CourseSchedule.py)
+|25|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./MoveZeroes/MoveZeroes.py)
