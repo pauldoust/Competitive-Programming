@@ -30,4 +30,5 @@ My solution for some competitive programming problems
 |24|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [Python3](./CourseSchedule/CourseSchedule.py)
 |25|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./MoveZeroes/MoveZeroes.py)
 |26|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](./SpiralMatrix/SpiralMatrix.py)
+|27|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python3](./MaximumProductOfThreeNumbers/MaximumProductOfThreeNumbers.py)
 
