@@ -31,5 +31,5 @@ My solution for some competitive programming problems
 |25|[Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Python3](./MoveZeroes/MoveZeroes.py)
 |26|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python3](./SpiralMatrix/SpiralMatrix.py)
 |27|[Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [Python3](./MaximumProductOfThreeNumbers/MaximumProductOfThreeNumbers.py)
-|28|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](.KthLargestElementInArray/KthLargestElementInArray.py)
+|28|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Python3](./KthLargestElementInArray/KthLargestElementInArray.py)
 
