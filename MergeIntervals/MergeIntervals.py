@@ -10,7 +10,6 @@ class Solution:
         i = 0
         while i < len(intervals):
             current = intervals[i]
-            print('current.end: ', current.end)
             if (i + 1 >= len(intervals)):
                 result.append(current)
                 break
